@@ -1,0 +1,12 @@
+/* User Id ; User Name; Age; Followers; image/Bio */
+
+1:Slesha Dahal:25:New York:500:Task7/profilePic/1.jpg:cleaner
+2:Tim Cook:30:Los Angeles:1000:Task7/profilePic/2.jpg:Receptionist
+3:Michael Johnson:28:Chicago:750:Task7/profilePic/3.jpg:Doctor
+4:Ally Agard:24:Toronto:500:Task7/profilePic/4.jpg: Salesgirl
+5:Kylia Abort:18:Dubai:20000:Task7/profilePic/5.jpg:Tiktoker
+6:Tristan Alderim:25:AbuDabi:1000:Task7/profilePic/6.jpg:Salesman
+7:Albert Hang:19:Belgium:3000:Task7/profilePic/7.jpg:Reporter
+8:Soniya shah:22:Nepal:54000:Task7/profilePic/8.jpg:Actor
+9:Nigma Hyang:33:Korea:2300:Task7/profilePic/9.jpg:Makeup Artist
+10:Fang Leng:24:China:1M:Task7/profilePic/10.jpg:Actor
